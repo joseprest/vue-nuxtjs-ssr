@@ -1,0 +1,1 @@
+importScripts('https://push.getback.ch/sw.js');

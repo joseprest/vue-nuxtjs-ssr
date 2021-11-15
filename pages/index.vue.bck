@@ -1,0 +1,14 @@
+<template>
+    <div>Init</div>
+</template>
+
+<script>
+    export default {
+        name: "index",
+        head: {
+            meta : [
+                {hid: 'robots', name: 'robots', content: 'noindex,follow'},
+            ]
+        }
+    }
+</script>

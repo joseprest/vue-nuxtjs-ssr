@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: *go?*
+Disallow: *?q=*
+Disallow: *?sort=*
+Disallow: *profile*
+Disallow: *?brands=*
+Disallow: *data-protection*
+Disallow: *terms*
+Disallow: *remove-alert*
+Host: https://sneakers123.com
+Sitemap: https://sneakers123.com/sitemap.xml

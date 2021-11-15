@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sneakers123.com/sitemap.xml
